@@ -51,3 +51,6 @@ if y == 0:
     download(games, index)
 elif y == 1:
     go_to_fandom(index, links)
+
+
+print("Илья")
