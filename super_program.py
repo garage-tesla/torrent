@@ -52,5 +52,6 @@ if y == 0:
 elif y == 1:
     go_to_fandom(index, links)
 
+print("Женя")
 print("Илья")
 print("Миша")
